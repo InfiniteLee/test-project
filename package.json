@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "github:infinitelee/test-package
+    "github:infinitelee/test-package"
   }
 }
